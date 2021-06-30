@@ -13,7 +13,7 @@ const CONFIG = {
     btnReply: 'Nói chồng nghe coi <3',
     reply: 'Vì anh chồng là người thương em nhất quả đất <33333333',
     mess: 'Ỏ, bé đáng iu thía 🥰. Yêu bé nhắm nhắm 😘😘',
-    messDesc: 'Nay mình phải celebrate thật to nha công chúa.',
+    messDesc: 'Nay mình phải celebrate thật to nha công chúa',
     btnAccept: 'Dạaaaaaa <3',
     messLink: 'https://www.facebook.com/popokhoai.mummim/'
 }
