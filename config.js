@@ -1,6 +1,6 @@
 const CONFIG = {
     introTitle: 'Bé iu à!',
-    introDesc: `You are the best present I have ever had 
+    introDesc: `You are the best present I have ever had
                 You are the most beautyfull girl I have ever seen
                 You are the sexiest lady I have ever sex
                 You are my everthing :3 `,
